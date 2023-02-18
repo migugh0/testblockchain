@@ -1,3 +1,9 @@
+# User config folders
+.vscode/
+
+# Project build folders
+build/
+
 # Prerequisites
 *.d
 
